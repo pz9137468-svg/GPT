@@ -1,0 +1,18 @@
+{
+  "week": "2026-W34",
+  "period": {
+    "start": "2026-08-17",
+    "end": "2026-08-23"
+  },
+  "source_files": [
+    "conversation_history.txt",
+    "raw_memories.md",
+    "rollout_summaries",
+    "session_index.jsonl"
+  ],
+  "event_count": 29,
+  "content_sha256": {
+    "weekly.md": "ce856540b78ee725d991b990b7e41f18afa18bd27b1522f9a7a1779f5245c047",
+    "memory.md": "5a59b6d6136d790a49c4408c2e2f3ddec9582370a609fece27deef502fe10a34"
+  }
+}
