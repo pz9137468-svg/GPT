@@ -1,0 +1,18 @@
+{
+  "week": "2026-W44",
+  "period": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "source_files": [
+    "conversation_history.txt",
+    "raw_memories.md",
+    "rollout_summaries",
+    "session_index.jsonl"
+  ],
+  "event_count": 50,
+  "content_sha256": {
+    "weekly.md": "32b30d747d793fa9ac3659793120d7c13693c367d69e714c3eb59be7917f673b",
+    "memory.md": "8ab0ed5bfb531762a3400952595e2811d827d537c5d4eb0b33e837b35b839b78"
+  }
+}
